@@ -23,11 +23,5 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![Wordpress](https://img.shields.io/badge/-Wordpress-0D1117?style=for-the-badge&logo=wordpress&labelColor=0D1117)&nbsp;
 
-
-### Studying in this moment:
-![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
-![SASS](https://img.shields.io/badge/-SASS-0D1117?style=for-the-badge&logo=sass&logoColor=purple&labelColor=0D1117)&nbsp; 
-![Gulp](https://img.shields.io/badge/-Gulp-0D1117?style=for-the-badge&logo=gulp&logoColor=purple&labelColor=0D1117)&nbsp;
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9A5AF2&height=120&section=footer"/>
 
