@@ -1,26 +1,31 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9A5AF2&height=120&section=header"/>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9A5AF2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Fernanda+Tollotti;I'm+studying+Javascript;Be+Welcome!+:%29)](https://git.io/typing-svg)
+###
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fernandatollotti&bg_color=0d1117&color=9A5AF2&line=8B1EC4&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="left">My name is Fernanda Tollotti and I'm a front-end developer, from São Paulo, Brazil</p>
 
+###
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fernandatollotti&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+<h2 align="left">About me</h2>
 
+###
 
+<p align="left">✨ Passionate about creating user-friendly interfaces<br>📚 I'm currently learning JavaScript<br>🎯 Goals: To work as a frontend developer and collaborate with other developers<br>🎲 Fun fact: I love listening to music</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+</div>
+
+###
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=fernandatollotti&show_icons=true&count_private=true&hide_border=true&title_color=9A5AF2&icon_color=8B1EC4&text_color=c9d1d9&bg_color=0d1117" alt="Fernanda Tollotti github stats" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandatollotti&layout=compact&hide_border=true&title_color=9A5AF2&text_color=fff&bg_color=0d1117" />
 </div>
- 
- ### Main skills:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9A5AF2&height=120&section=footer"/>
-
