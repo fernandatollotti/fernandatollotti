@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Oi 👋 Como você está?</h1>
 
 ###
 
-<p align="left">My name is Fernanda Tollotti and I'm a front-end developer, from São Paulo, Brazil</p>
+<p align="left">Meu nome é Fernanda Tollotti e sou desenvolvedora front-end, de São Paulo, Brasil</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Passionate about creating user-friendly interfaces<br>📚 I'm currently learning JavaScript<br>🎯 Goals: To work as a frontend developer and collaborate with other developers<br>🎲 Fun fact: I love listening to music</p>
+<p align="left">✨ Apaixonada por criar interfaces amigáveis<br>📚 Estudando JavaScript<br>🎯 Objetivos: Trabalhar como desenvolvedora front-end e colaborar com outros desenvolvedores<br>🎲  Curiosidade: Amo ouvir música</p>
 
 ###
 
