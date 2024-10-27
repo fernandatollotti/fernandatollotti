@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Apaixonada por criar interfaces amigáveis<br>📚 Estudando JavaScript<br>🎯 Objetivos: Trabalhar como desenvolvedora front-end e colaborar com outros desenvolvedores<br>🎲  Curiosidade: Amo ouvir música</p>
+<p align="left">✨ Apaixonada por criar interfaces amigáveis<br>📚 Estudando JavaScript<br>🎯 Objetivos: Trabalhar como desenvolvedora front-end e colaborar com outros desenvolvedores<br>🎲  Curiosidade: Amo ouvir música quando estou desenvolvendo</p>
 
 ###
 
