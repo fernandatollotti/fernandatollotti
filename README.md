@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Apaixonada por criar interfaces amigáveis<br>📚 Estudando JavaScript<br>🎯 Objetivos: Trabalhar como desenvolvedora front-end e colaborar com outros desenvolvedores<br>🎲  Curiosidade: Amo ouvir música quando estou desenvolvendo</p>
+<p align="left">✨ Focada na criação de interfaces incríveis<br>📚 Estudando JavaScript e aprimorando habilidades<br>🎯 Buscando atuar como desenvolvedora frontend e colaborar em projetos desafiadores<br>🎧 Desenvolver projetos ao som boas músicas</p>
 
 ###
 
