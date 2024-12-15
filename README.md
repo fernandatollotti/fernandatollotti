@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Focada na criação de interfaces incríveis<br>📚 Estudando JavaScript e aprimorando habilidades<br>🎯 Buscando atuar como desenvolvedora frontend e colaborar em projetos desafiadores<br>🎧 Desenvolver projetos ao som boas músicas</p>
+<p align="left">✨ Focada na criação de interfaces incríveis<br>📚 Estudando JavaScript e aprimorando habilidades<br>🎯 Buscando atuar como desenvolvedora frontend e colaborar em projetos desafiadores<br>🎧 Desenvolver projetos ao som de boas músicas</p>
 
 ###
 
