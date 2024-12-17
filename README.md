@@ -1,29 +1,20 @@
-<h1 align="left">Oi 👋 Como você está?</h1>
+# Oi 👋 Como você está?
 
-###
+Meu nome é Fernanda Tollotti e sou desenvolvedora Front-End, de São Paulo, Brasil
 
-<p align="left">Meu nome é Fernanda Tollotti e sou desenvolvedora front-end, de São Paulo, Brasil</p>
+## Sobre mim
 
-###
+✨ Foco no design e desenvolvimento de interfaces intuitivas e responsivas  
+📚 Estudando JavaScript e aprimorando habilidades em Front-End  
+🎯 Interessada em atuar como desenvolvedora Front-End, contribuindo com soluções criativas e funcionais para projetos desafiadores  
+🎧 Criatividade impulsionada por música durante o desenvolvimento de projetos  
 
-<h2 align="left">Sobre</h2>
+## Minhas habilidades
 
-###
-
-<p align="left">✨ Focada na criação de interfaces incríveis<br>📚 Estudando JavaScript e aprimorando habilidades<br>🎯 Buscando atuar como desenvolvedora frontend e colaborar em projetos desafiadores<br>🎧 Desenvolver projetos ao som de boas músicas</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-</div>
-
-###
+![HTML 5](https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5)
+![CSS 3](https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript)
+![Figma](https://img.shields.io/badge/Figma-333333?style=for-the-badge&logo=figma)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=fernandatollotti&show_icons=true&count_private=true&hide_border=true&title_color=9A5AF2&icon_color=8B1EC4&text_color=c9d1d9&bg_color=0d1117" alt="Fernanda Tollotti github stats" /> 
