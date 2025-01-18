@@ -4,10 +4,10 @@ Meu nome é Fernanda Tollotti e sou desenvolvedora Front-End, de São Paulo, Bra
 
 ## Sobre mim
 
-✨ Foco no design e desenvolvimento de interfaces intuitivas e responsivas
-📚 Estudando React e aprimorando habilidades em Front-End
-🌎 Cursando inglês para expandir possibilidades no mercado internacional
-🎯 Interessada em atuar como desenvolvedora Front-End, contribuindo com soluções criativas e funcionais para projetos desafiadores
+✨ Foco no design e desenvolvimento de interfaces intuitivas e responsivas  
+📚 Estudando React e aprimorando habilidades em Front-End  
+🌎 Cursando inglês para expandir possibilidades no mercado internacional  
+🎯 Interessada em atuar como desenvolvedora Front-End, contribuindo com soluções criativas e funcionais para projetos desafiadores  
 🎧 Criatividade impulsionada por música durante o desenvolvimento de projetos
 
 ## Minhas habilidades
