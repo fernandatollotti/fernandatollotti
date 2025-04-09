@@ -15,15 +15,15 @@ Meu nome é Fernanda Tollotti.
 
 
 <a href="https://fernandatollotti.com.br" target="_blank">
-  <img src="https://img.shields.io/badge/Website-b702ff?style=flat&logo=google-chrome&logoColor=white" alt="Website">
+  <img src="https://img.shields.io/badge/Portfólio-b702ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
 </a>
 
 <a href="https://www.linkedin.com/in/fernanda-tollotti" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Fernanda%20Tollotti-b702ff?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-b702ff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="mailto:fernandatollotti@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-fernandatollotti@gmail.com-b702ff?style=flat&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/Gmail-b702ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 
