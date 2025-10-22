@@ -1,7 +1,7 @@
 # Oiê 👋 
 
-👩‍💻 Desenvolvedora Front-End e Analista de dados
-📚 Aprimorando conhecimentos em Frontend e Dados
+👩‍💻 Desenvolvedora Front-End e Analista de dados  
+📚 Aprimorando conhecimentos em Frontend e Dados  
 🌎 Estudando inglês para ampliar oportunidades no mercado internacional  
 🌐 Apaixonada por tecnologia
 
