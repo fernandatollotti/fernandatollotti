@@ -17,7 +17,7 @@ Acredito que a tecnologia pode se realizar na interseção entre **engenharia**,
 
 ##  📫 Onde me encontrar
 
-Para colaborações, projetos ou consultas, sinta-se à vontade para entrar em contato:
+Para colaborações, projetos ou consultas, sinta-se à vontade para entrar em contato:  
 [![Link do Portfólio](https://img.shields.io/badge/Portfólio-b702ff?style=for-the-badge)](https://fernandatollotti.com.br)
 [![Link do LinkedIn](https://img.shields.io/badge/LinkedIn-b702ff?style=for-the-badge)](https://www.linkedin.com/in/fernanda-tollotti)
 [![Link do Gmail](https://img.shields.io/badge/Gmail-b702ff?style=for-the-badge)](mailto:contato@fernandatollotti.com.br)
